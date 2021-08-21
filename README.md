@@ -1,0 +1,112 @@
+
+### Hi there 👋, [Thành here!](https://www.linkedin.com/in/hoangvietthanh/)
+**SDET & QCM in transcosmos**
+
+**Glad to see you here!** :star_struck:
+><h3>When you're out of quality, you're out of business.</h3>
+
+Welcome to my profile! I am a computer science engineer and have experience in working in many startups as full-time `QA Manager` & `Software Development in Test👨‍💻` and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/hoangvietthanh)!
+
+Interested in making life easier by creating utility tools. Fascinated about space.
+
+I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.
+
+[![Linkedin Badge](https://img.shields.io/badge/-hoangvietthanh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoangvietthanh/)](https://www.linkedin.com/in/hoangvietthanh)
+[![Gmail Badge](https://img.shields.io/badge/-t2hv33-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:t2hv33@gmail.com)](mailto:t2hv33@gmail.com) 
+
+
+### :computer: Technologies I Love
+* Automation Test
+* Frontend and Backend Web Development
+* Blockchain
+* Flutter
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=t2hv33&layout=compact">
+
+ 
+### Technologies I Use
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /><img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-round.svg" alt="cypress" width="25" height="25" /><img src="https://raw.githubusercontent.com/SeleniumHQ/www.seleniumhq.org/master/src/main/webapp/images/originals/Selenium%20Logo%20Upright.svg" alt="selenium" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="travis" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
+</p>
+
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=t2hv33.t2hv33" alt="visitors"></p>
+ 
+ ### Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Thanh Hoang'
+		current_work = "transcosmos"
+		hobbies = [
+				'Biz',
+				'Biker',
+				'Camping',
+				'Finance',
+				'Blockchain',
+				'Building Digital Garden',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return HoChiMinh_VietNam()
+	
+	def Ambitions():
+		DigitalGarden()
+		Blockchain Network()
+		TravelAroundTheWorld()
+		# Assume 10 more awesome ambitions here  ;)
+
+ ```
+
+
+
+### Current Works
+- I'm currently working on 🔭 building **Call Center for all Social Media Platform** such as Facebook, Instagram, Line, Zalo, Webchat...
+- 🔭 Technology that I’m currently working on ReactJS, Nodejs, Cypress.
+- 🌱 Sharpen my skills in **Digital Garden**.
+- ⚡ Available for Freelance projects/internship opportunities.
+
+:star: Here are some projects that I'm working on:
+- [Foam](https://foambubble.github.io/foam/) Foam is a personal knowledge management and sharing
+
+### My Digital Garden 🌱
+
+- I write regular blog posts on my Digital Garden, most of which you will find on my personal Digital Garden website `#later`
+
+- I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day in day out, I make things that I'm proud of.
+
+---
+
+### Boy Scout Rule
+
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+
+---
+
+### My stats
+
+![t2hv33's github stats](https://github-readme-stats.vercel.app/api?username=t2hv33&show_icons=true&hide=[%22issues%22])
+ 
+ 
+<h1 align='center'><i>Stay awesome!</i></h1>
