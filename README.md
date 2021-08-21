@@ -5,7 +5,9 @@
 **Glad to see you here!** :star_struck:
 ><h3>When you're out of quality, you're out of business.</h3>
 
-Welcome to my profile! I am a computer science engineer and have experience in working in many startups as full-time `QA Manager` & `Software Development in Test👨‍💻` and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/hoangvietthanh)!
+Welcome to my profile! I am a software engineer and have experience in working in many startups as full-time `QA Manager` & `Software Development in Test👨‍💻` and full-time adventure seeker. 
+
+Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/hoangvietthanh)!
 
 Interested in making life easier by creating utility tools. Fascinated about space.
 
@@ -73,16 +75,14 @@ I have a passion for learning and sharing my knowledge with others in a way that
 	
 	def Ambitions():
 		DigitalGarden()
-		Blockchain Network()
+		BlockchainNetwork()
 		TravelAroundTheWorld()
 		# Assume 10 more awesome ambitions here  ;)
 
  ```
 
-
-
 ### Current Works
-- I'm currently working on 🔭 building **Call Center for all Social Media Platform** such as Facebook, Instagram, Line, Zalo, Webchat...
+- 🔭 I'm currently working on  building **Call Center for all Social Media Platform** such as Facebook, Instagram, Line, Zalo, Webchat...
 - 🔭 Technology that I’m currently working on ReactJS, Nodejs, Cypress.
 - 🌱 Sharpen my skills in **Digital Garden**.
 - ⚡ Available for Freelance projects/internship opportunities.
