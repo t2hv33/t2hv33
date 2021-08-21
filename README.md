@@ -7,11 +7,10 @@
 
 Welcome to my profile! I am a software engineer and have experience in working in many startups as full-time `QA Manager` & `Software Development in Test👨‍💻` and full-time adventure seeker. 
 
-Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/hoangvietthanh)!
-
 Interested in making life easier by creating utility tools. Fascinated about space.
 
 I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.
+Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/hoangvietthanh)!
 
 [![Linkedin Badge](https://img.shields.io/badge/-hoangvietthanh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoangvietthanh/)](https://www.linkedin.com/in/hoangvietthanh)
 [![Gmail Badge](https://img.shields.io/badge/-t2hv33-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:t2hv33@gmail.com)](mailto:t2hv33@gmail.com) 
@@ -85,7 +84,7 @@ I have a passion for learning and sharing my knowledge with others in a way that
 - 🔭 I'm currently working on  building **Call Center for all Social Media Platform** such as Facebook, Instagram, Line, Zalo, Webchat...
 - 🔭 Technology that I’m currently working on ReactJS, Nodejs, Cypress.
 - 🌱 Sharpen my skills in **Digital Garden**.
-- ⚡ Available for Freelance projects/internship opportunities.
+- ⚡ Available for Freelance projects/ Remote opportunities.
 
 :star: Here are some projects that I'm working on:
 - [Foam](https://foambubble.github.io/foam/) Foam is a personal knowledge management and sharing
