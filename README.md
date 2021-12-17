@@ -85,7 +85,8 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/hoangv
 
 ### Current Works
 
-- 🔭 I'm currently working on  building **Call Center for all Social Media Platform** such as Facebook, Instagram, Line, Zalo, Webchat...
+- 🔭 Building a Fintech Super App
+- 🔭 I'm used to working on  building **Call Center for all Social Media Platform** such as Facebook, Instagram, Line, Zalo, Webchat...
 * 🔭 Technology that I’m currently working on ReactJS, Nodejs, Cypress.
 * 🌱 Sharpen my skills in **Digital Garden**.
 * ⚡ Available for Freelance projects/ Remote opportunities.
