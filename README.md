@@ -1,7 +1,7 @@
 
 ### Hi there 👋, [Thành here!](https://www.linkedin.com/in/hoangvietthanh/)
 
-**QA Manager & SDET in transcosmos**
+**Engineer Manager & SDET in transcosmos**
 
 **Glad to see you here!** :star_struck:
 
