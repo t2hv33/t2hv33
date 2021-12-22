@@ -7,7 +7,7 @@
 
 > <h3>When you're out of quality, you're out of business.</h3>
 
-Welcome to my profile! I am a software engineer and have experience in working in many startups as full-time `QA Manager` & `Software Development in Test👨‍💻` and full-time adventure seeker.
+Welcome to my profile! I am a software engineer and have experience in working in many startups as full-time `QA Manager` & `Software Development in Test👨‍💻` & `Product Owner` and full-time adventure seeker.
 
 Interested in making life easier by creating utility tools. Fascinated about space.
 
