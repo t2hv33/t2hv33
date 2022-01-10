@@ -1,5 +1,5 @@
 
-### Hi there 👋, [Thành here!](https://www.linkedin.com/in/hoangvietthanh/)
+### Hi there 👋, [Thành here (Thomas)!](https://www.linkedin.com/in/hoangvietthanh/)
 
 **Engineer Manager & SDET in transcosmos**
 
