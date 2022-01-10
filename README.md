@@ -21,7 +21,8 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/hoangv
 
 * Automation Test
 * Frontend and Backend Web Development
-* Blockchain
+* Fintech
+* Blockchain & Crypto
 * Flutter
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=t2hv33&layout=compact">
