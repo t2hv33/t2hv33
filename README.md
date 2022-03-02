@@ -61,7 +61,7 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/hoangv
  ```python
  class WhoAmI:
   user = 'Thanh Hoang'
-  current_work = "transcosmos"
+  current_work = ["koinworks","transcosmos"]
   hobbies = [
     'Biz',
     'Biker',
@@ -79,6 +79,7 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/hoangv
  def Ambitions():
   DigitalGarden()
   BlockchainNetwork()
+  DigitalNomad()
   TravelAroundTheWorld()
   # Assume 10 more awesome ambitions here  ;)
 
