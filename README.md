@@ -2,7 +2,8 @@
 ### Hi there 👋, [Thành here (Thomas)!](https://www.linkedin.com/in/hoangvietthanh/)
 
 **Engineer Manager & SDET in transcosmos**
-** SME QA Engineer in Koinworks**
+
+**SME QA Engineer in Koinworks**
 
 **Glad to see you here!** :star_struck:
 
