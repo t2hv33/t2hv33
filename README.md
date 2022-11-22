@@ -21,7 +21,7 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/hoangv
 
 ### :computer: Technologies I Love
 
-* Automation Test
+* Automation Test || Cypress
 * Frontend and Backend Web Development
 * Fintech
 * Blockchain & Crypto
