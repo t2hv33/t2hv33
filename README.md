@@ -9,7 +9,7 @@
 
 > <h3>When you're out of quality, you're out of business.</h3>
 
-Welcome to my profile! I am a software engineer and have experience in working in many startups as full-time `QA Manager` & `Software Development in Test👨‍💻` & `Associate Product Manager` and full-time adventure seeker.
+Welcome to my profile! I am a software engineer and have experience in working in many startups as full-time `QA Manager` & `Software Development in Test👨‍💻` & ` Product Manager` and full-time adventure seeker.
 
 Interested in making life easier by creating utility tools. Fascinated about space.
 
@@ -26,6 +26,7 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/hoangv
 * Fintech
 * Blockchain & Crypto
 * Flutter
+* Full-Stack Quality Engineer
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=t2hv33&layout=compact">
 
