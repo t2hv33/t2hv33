@@ -1,20 +1,24 @@
 
 ### Hi there 👋, [Thành here (Thomas)!](https://www.linkedin.com/in/hoangvietthanh/)
 
-**Engineer Manager & SDET in transcosmos**
+**Solution Architect in FPT Software | C99** 🚀🌟
 
-**SME QA Engineer in Koinworks**
+**Ex Engineer Manager & SDET in transcosmos**
+
+**Ex SME QA Engineer in Koinworks**
 
 **Glad to see you here!** :star_struck:
 
 > <h3>When you're out of quality, you're out of business.</h3>
 
-Welcome to my profile! I am a software engineer and have experience in working in many startups as full-time `QA Manager` & `Software Development in Test👨‍💻` & ` Product Manager` and full-time adventure seeker.
+- Hello and welcome to my profile! I am excited to announce that I am now a `Solution Architect` in `FPT Software` company, bringing my expertise in software development and testing to a new level. As an experienced `Engineer Manager` & `SDET` in `@transcosmos` and `SME QA Engineer` in `@Koinworks`, I have a strong background in managing teams and ensuring high-quality products. 
+- When I'm not working, I love to explore new adventures through camping ⛺, 4x4 off-roading 🚙, biking 🚴‍♀️ and learn about the latest innovations in space technology 🚀.
 
-Interested in making life easier by creating utility tools. Fascinated about space.
+- Interested in making life easier by creating utility tools. Fascinated about space.
+- I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.
+- Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/hoangvietthanh)!
 
-I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.
-Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/hoangvietthanh)!
+- Check out my Github profile to see some of my latest projects and connect with me to learn more! 🚀🌟
 
 [![Linkedin Badge](https://img.shields.io/badge/-hoangvietthanh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoangvietthanh/)](https://www.linkedin.com/in/hoangvietthanh)
 [![Gmail Badge](https://img.shields.io/badge/-t2hv33-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:t2hv33@gmail.com)](mailto:t2hv33@gmail.com)
