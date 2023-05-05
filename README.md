@@ -25,7 +25,7 @@
 
 ### :computer: Technologies I Love
 
-* Automation Test || Cypress
+* Automation Test || Cypress & Playwright
 * Frontend and Backend Web Development
 * Fintech
 * Blockchain & Crypto
