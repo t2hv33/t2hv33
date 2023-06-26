@@ -1,11 +1,11 @@
 
 ### Hi there 👋, [Thành here (Thomas)!](https://www.linkedin.com/in/hoangvietthanh/)
 
-**Automation Solution Architect in FPT Software | C99** 🚀🌟
+**Automation Solution Architect in FPT Software | C99** 🚀🌟🚗
 
-**Ex SME QA Engineer in Koinworks**
+**Ex SME QA Engineer in Koinworks** 💰
 
-**Ex Engineer Manager & SDET in transcosmos**
+**Ex Engineer Manager & SDET in transcosmos** 🌐🛒
 
 **Glad to see you here!** :star_struck:
 
