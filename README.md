@@ -68,15 +68,16 @@
  ```python
  class WhoAmI:
   user = 'Thanh Hoang'
-  current_work = ["koinworks","transcosmos"]
+  current_work = ["fpt","koinworks","transcosmos"]
   hobbies = [
     'Biz',
     'Biker',
+    '4x4 Offroad',
     'Camping',
     'Finance',
     'Blockchain',
     'Building Digital Garden',
-    'Reading Sci-Fi Novels'
+    'Reading Sci-Fi'
     'Being up all Night chasing that ONE BUG...'
    ]
  
